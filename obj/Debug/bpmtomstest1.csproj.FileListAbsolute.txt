@@ -1,0 +1,17 @@
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.csprojAssemblyReference.cache
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.Form1.resources
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.Properties.Resources.resources
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.csproj.GenerateResource.cache
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.exe.licenses
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.csproj.CoreCompileInputs.cache
+C:\Users\ORi\source\repos\BPMtoMS Final backup\bin\Debug\bpmtomstest1.exe.config
+C:\Users\ORi\source\repos\BPMtoMS Final backup\bin\Debug\bpmtomstest1.exe.manifest
+C:\Users\ORi\source\repos\BPMtoMS Final backup\bin\Debug\bpmtomstest1.application
+C:\Users\ORi\source\repos\BPMtoMS Final backup\bin\Debug\bpmtomstest1.exe
+C:\Users\ORi\source\repos\BPMtoMS Final backup\bin\Debug\bpmtomstest1.pdb
+C:\Users\ORi\source\repos\BPMtoMS Final backup\bin\Debug\Guna.UI2.dll
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.exe.manifest
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.application
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.csproj.CopyComplete
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.exe
+C:\Users\ORi\source\repos\BPMtoMS Final backup\obj\Debug\bpmtomstest1.pdb
