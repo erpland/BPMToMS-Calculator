@@ -1,4 +1,5 @@
 # BPMToMS-Calculator
+My First C# Project Ever :)
 Simple BPM to miliseconds calculator with c# and winforms
 
 ![window example](https://github.com/erpland/BPMToMS-Calculator/blob/main/example/bpmtoms.png)
